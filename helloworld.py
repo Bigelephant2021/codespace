@@ -6,3 +6,4 @@ while True:
     print (count)
     print (count * 2)
     print (count * 3)
+    print (count * 4)
